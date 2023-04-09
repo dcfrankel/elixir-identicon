@@ -1,1 +1,1 @@
-Basic pixel art github generator written in Elixir taken from Udemy Elixir course
+Basic pixel art generator written in Elixir taken from the Udemy `The Complete Elixir and Phoenix Bootcamp` courste
